@@ -7,12 +7,21 @@ Gamejam 2 at Vallekilde
 
 Individual happyness meter
 
+
+
 ##### perform actions to keep happyness up:
 
 Collect people in rooms
 
 To many people in a room reduces happyness
 
+Play music
+
+##### Basic AI
+
+Characters moving from 'Hvid gang' to 'Grøn gang' and reverse.
+
+Characters have a random chance to leave rooms
 
 #### Gameplay:
 
