@@ -3,18 +3,18 @@ Gamejam 2 at Vallekilde
 
 ### Game design notes
 
-####Mechanics:
+#### Mechanics:
 
 Individual happyness meter
 
-#####perform actions to keep happyness up:
+##### perform actions to keep happyness up:
 
 Collect people in rooms
 
 To many people in a room reduces happyness
 
 
-####Gameplay:
+#### Gameplay:
 
 Top down
 
