@@ -41,3 +41,17 @@ Saturation reducing when losing overall happyness
 
 
 ### Programming notes
+
+
+TODO:
+
+GameController
+UIController
+Speaker
+PersonSpawner
+CameraController
+
+
+Iteration 2:
+
+Forskellige personer med forskellige needs for happiness bliver opretholdt
